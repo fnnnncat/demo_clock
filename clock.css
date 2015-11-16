@@ -1,9 +1,10 @@
 #clockBox{
-    width: 300px;
+    width: 200px;
     position: relative;
     margin: 50px auto;
-    height: 300px;
-    background-color: antiquewhite;
+    height: 200px;
+    border-radius:100px;
+
 }
 #clockCanvas{
     position:absolute;
